@@ -1,0 +1,8 @@
+.main {
+  display: flex;
+  flex-direction: row;
+
+  border: 1px solid black;
+  width: 150px;
+  margin-left: 500px;
+}
